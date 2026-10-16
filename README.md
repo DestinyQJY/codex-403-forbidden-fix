@@ -2,6 +2,8 @@
 
 > 💡 解决使用 VPN / Clash 等代理工具登录 Codex 桌面客户端时，出现 `403 Forbidden`、`Region Unavailable` 等错误的问题。
 
+![Codex 客户端登录 403 Forbidden 解决方案](403-forbidden.jpg)
+
 ## 📌 问题描述
 
 在使用 VPN 连接网络，并通过 ChatGPT 账号登录 **Codex Desktop** 时，可能遇到以下情况：
